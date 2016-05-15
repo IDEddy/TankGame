@@ -10,7 +10,7 @@ public class Enemy : MonoBehaviour {
 	void Start () {
 
 
-        targetAmmo = GameObject.FindGameObjectsWithTag("Spawn_prefab(Clone)").transform;
+       // targetAmmo = GameObject.FindGameObjectsWithTag("Spawn_prefab(Clone)").transform;
 
 
 
